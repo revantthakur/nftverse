@@ -1,0 +1,54 @@
+.SideBar {
+    background-color: white;
+    line-height: 20px;
+    font-size: 15px;
+    border-right: 1px solid gray;
+    width: 300px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 50px;
+}
+
+ul {
+    padding: 0px;
+}
+
+.list-items {
+    padding: 10px;
+    list-style-type: none;
+}
+
+.list-items:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    color: white;
+}
+.header{
+    background-color: white;
+    line-height: 15px;
+    color: black;
+    font-size: 25px;
+    border-right: 1px solid gray;
+    border-bottom: 2px solid gray;
+    width: 300px;
+   padding: 10px;
+   list-style-type: none;
+
+}
+.footer{
+    padding: 10px;
+    border: 1px solid gray;
+    
+}
+.footer:hover{
+    background-color: aliceblue;
+    color: black;
+   
+}
